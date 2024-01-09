@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+<image src="screenshot/chatbox.png" alt="chatbox image" />
+<image src="screenshot/chatgpt-response.png" alt="chatbox image"/>
+
+
 In the project directory, you can run:
 
 ### `npm start`
